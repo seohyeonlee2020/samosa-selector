@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.samosa {
+	height: 15em
+	padding: 1.5em
+	margin: 0 auto
+	text-align: center
+}
+
+.upgrade{
+	border: 1px solid rgba(153, 153, 153, 0.497);
+	padding: 20px 10px;
+	margin-right: 25px;
+	width: 200px;
+	line-height: 1;
+	overflow-wrap: break-word;
+
+}
+
+.container{
+	word-wrap: break-word;
+}
+
+p {
+	  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
