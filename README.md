@@ -1,6 +1,5 @@
 Overview
-![Big Samosa]("https://www.indianhealthyrecipes.com/wp-content/uploads/2019/11/samosa-recipe.jpg"
-alt="Samosa" )
+![Big Samosa]("https://www.indianhealthyrecipes.com/wp-content/uploads/2019/11/samosa-recipe.jpg")
 
 **Overview**
 In this lab, I will create a game called Samosa Selector that is based on an incremental game called Cookie Clicker. The goal of the game is to produce as many samosas by clicking on the Big Samosa as I can.
